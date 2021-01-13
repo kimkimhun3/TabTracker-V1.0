@@ -1,4 +1,4 @@
-# TabTracker-V1.0
+# TabTracker-Server-V1.0
 ## Project setup
 ```
   cd server
