@@ -1,8 +1,12 @@
 # TabTracker-V1.0
 ## Project setup
 ```
-npm install
+  cd server
 ```
+```
+  npm install
+```
+  
 
 ### Compiles and hot-reloads for development
 ```
